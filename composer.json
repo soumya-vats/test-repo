@@ -13,6 +13,7 @@
         "psr-4": {"vats\\check\\": "paytmchecksum/"}
     },
     "license": "MIT",
-    "prefer-stable": false
+    "minimum-stability": "dev",
+    "prefer-stable" : false
 }
 
