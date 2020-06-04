@@ -12,6 +12,6 @@
  "autoload": {
         "psr-4": {"vats\\check\\": "paytmchecksum/"}
     },
-    "license": "MIT",
+    "license": "MIT"
 }
 
